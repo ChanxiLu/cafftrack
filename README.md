@@ -1,6 +1,7 @@
 ## This is a Caffeine Tracker project made with React.js & FireBase, while learning with the course of Smoljames. 
 
-### This is a FlowMap created to understand better the webapp.
+
+### FlowMap created to understand better the webapp.
 
 # ☕ CaffTrack
 
