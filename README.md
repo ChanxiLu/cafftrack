@@ -1,6 +1,9 @@
 ## This is a Caffeine Tracker project made with React.js & FireBase, while learning with the course of Smoljames. 
 ### You can view the webpage here: https://chanxi-cafftracker.netlify.app/
 
+
+### FlowMap created to understand better the webapp.
+
 # ☕ CaffTrack
 
 CaffTrack is a React + Vite web app for tracking your coffee consumption.  
