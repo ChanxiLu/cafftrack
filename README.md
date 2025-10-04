@@ -30,6 +30,13 @@ It helps you log coffees, track caffeine levels in your body, see your costs, an
 
 ---
 
+## Credits
+
+Built by Chanxi, guided by Smoljames courses. 
+
+---
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
