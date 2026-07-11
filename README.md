@@ -2,7 +2,7 @@
 ### You can view the webpage here: https://chanxi-cafftracker.netlify.app/
 
 
-# ☕ CaffTrack
+# CaffTrack
 
 CaffTrack is a React + Vite web app for tracking your coffee consumption.  
 It helps you log coffees, track caffeine levels in your body, see your costs, and visualize habits over time.
