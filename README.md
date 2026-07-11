@@ -9,18 +9,18 @@ It helps you log coffees, track caffeine levels in your body, see your costs, an
 
 ---
 
-## ✨ Features
+## Features
 
-- 📊 **Stats Dashboard**: daily caffeine, daily cost, average coffees/day, and top coffees.
-- 🕑 **History Timeline**: view each coffee entry with remaining caffeine calculated via half-life.
-- ☁️ **Firebase Auth**: sign up, log in, reset password, log out.
-- 💾 **Firestore Persistence**: all entries are saved per user in the cloud.
-- 🔒 **Authentication Modal**: login/signup handled with a modal, closing only on success.
-- 🎨 **Responsive UI**: styled with custom CSS and Font Awesome icons.
+- **Stats Dashboard**: daily caffeine, daily cost, average coffees/day, and top coffees.
+- **History Timeline**: view each coffee entry with remaining caffeine calculated via half-life.
+- **Firebase Auth**: sign up, log in, reset password, log out.
+- **Firestore Persistence**: all entries are saved per user in the cloud.
+- **Authentication Modal**: login/signup handled with a modal, closing only on success.
+- **Responsive UI**: styled with custom CSS and Font Awesome icons.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React + Vite
 - **State Management**: React Context (`AuthContext`)
@@ -37,7 +37,7 @@ Built by Chanxi, guided by Smoljames courses.
 ---
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -70,7 +70,7 @@ npm run dev
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 cafftrack/
@@ -96,7 +96,7 @@ cafftrack/
 
 ---
 
-## 🔄 Architecture Flow
+## Architecture Flow
 
 ```
 index.html (#root + #portal)
@@ -121,8 +121,7 @@ Layout           Firebase.js
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Data is user-specific and stored in Firestore under `users/{uid}`.
 - Caffeine half-life is assumed to be **5 hours** for calculations.
-- Use responsibly 😉.
